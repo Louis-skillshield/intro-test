@@ -10,8 +10,8 @@ Petit projet de démonstration utilisé en journée 2 pour découvrir pytest :
 ## Installation
 
 ```bash
-git clone <URL_DU_DEPOT>
-cd <NOM_DU_DOSSIER>
+git clone https://github.com/Louis-skillshield/intro-test.git
+cd intro-test
 uv sync
 ```
 
